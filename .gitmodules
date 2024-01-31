@@ -1,0 +1,3 @@
+[submodule "ecommerce-fe"]
+    path = ecommerce-fe
+    url = https://github.com/yraj78/ecommerce-fe.git
